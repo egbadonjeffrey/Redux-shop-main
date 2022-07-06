@@ -1,0 +1,9 @@
+
+.ui.cards>.card>.content>.header:not(.ui) {
+    font-size: 0.7rem !important;
+    text-align: left !important;
+}
+
+.ui.grid {
+    margin: 0 auto;
+}
